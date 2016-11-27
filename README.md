@@ -100,9 +100,9 @@ This simply runs **rm** command behind the scenes to remove the following folder
 * dist
 * test-coverage
 
- ```bash
- npm run clean:build
- ```
+```bash
+npm run clean:build
+```
 
 ## Clean Everything
 
@@ -112,9 +112,6 @@ This removes the following folders:
 * test-coverage
 * node_modules
 
- ```bash
- npm run clean:all
- ```
-
- 
- 
+```bash
+npm run clean:all
+```
