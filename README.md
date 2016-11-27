@@ -68,7 +68,7 @@ For development, debugging and live loading, access the web page at http://127.0
  
  Basically runs **webpack-dev-server** with root set to ./build, where all your source files reside.
  
- ## Karma Test & Coverage Report
+## Karma Test & Coverage Report
  
 Dummy Test is configured, you need to of course add "real" tests.
  
