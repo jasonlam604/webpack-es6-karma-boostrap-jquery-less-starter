@@ -94,11 +94,15 @@ Running test again Firefox
  ```
  
 ## Clean Build ONLY
- 
-This simply runs **rm** command to remove the following folders:
+  
+This simply runs **rm** command behind the scenes to remove the following folders:
 
 * dist
 * test-coverage
+
+ ```bash
+ npm run clean:build
+ ```
 
 ## Clean Everything
 
@@ -107,6 +111,10 @@ This removes the following folders:
 * dist
 * test-coverage
 * node_modules
- 
+
+ ```bash
+ npm run clean:all
+ ```
+
  
  
