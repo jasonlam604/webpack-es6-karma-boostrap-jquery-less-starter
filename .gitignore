@@ -1,1 +1,5 @@
-
+/node_modules
+/test-coverage
+/dist
+.settings
+.project
