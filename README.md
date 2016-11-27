@@ -31,7 +31,11 @@ This Webpack Start Kit is configured with the following:
     ```bash
     npm install -g live-server
     ```
-   
+
+## Description
+
+Exactly what the project label says it is.  Another Webpack boilerplate starter, this starter contains a simple HelloWorld React Component
+that echos "Hello from Page 1!" in the middle of the page.  To test the component does take a dynamic value enter in the browser url **page2.html**, page2.html will produce "Hello from Page 2!" (see below for base url information).  Of course this is a crude demo you would create alot more ReactJS components and the core template would most likely be a shell in the end.
 
 ## Installation
 
@@ -49,14 +53,14 @@ webpack -p is ran, see package.json and final packaging including webpack chunki
  npm run build
  ```
 
- To run the distribution
+ To run the distribution, you can access the default web page at http://127.0.0.1:8080/dist/
  
   ```bash
  npm run live
  ```
 ## Development and Live Load
 
-For development, debugging and live loading
+For development, debugging and live loading, access the web page at http://127.0.0.1:8080/
 
  ```bash
  npm run dev
