@@ -3,12 +3,12 @@
 ##Description
 This Webpack Start Kit is configured with the following:
 
-* webpack
-* ES6
-* Karma
-* Bootstrap v3
-* jQuery
-* Less
+* [webpack](https://webpack.github.io/)
+* [ES6](https://en.wikipedia.org/wiki/ECMAScript)
+* [Karma](http://karma-runner.github.io/)
+* [Bootstrap v3](https://getbootstrap.com/)
+* [jQuery](https://jquery.com/)
+* [Less](http://lesscss.org/)
 
 ##Prerequisite
 
