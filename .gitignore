@@ -3,3 +3,5 @@
 /dist
 .settings
 .project
+.build_path
+.DS_Store
